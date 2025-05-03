@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - libin-n-g
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - libin-n-g/cpslib
+  - libin-n-g/project-2-datawaves
+  - libin-n-g/InformationScience-projects
+  - libin-n-g/CS2610-Computer-Organization-Laboratory
+  - libin-n-g/DocumentSummary
+  - Adrian147/minesweeperCLI
+  - libin-n-g/Assignments-CS
+  
